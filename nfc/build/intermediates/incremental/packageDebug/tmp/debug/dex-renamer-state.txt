@@ -1,0 +1,7 @@
+#Mon Aug 12 18:04:30 CST 2019
+base.0=C\:\\temp\\NXP_KLW\\Kalewa_TDL_SDK\\nfc\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\temp\\NXP_KLW\\Kalewa_TDL_SDK\\nfc\\build\\intermediates\\transforms\\dexMerger\\debug\\1
