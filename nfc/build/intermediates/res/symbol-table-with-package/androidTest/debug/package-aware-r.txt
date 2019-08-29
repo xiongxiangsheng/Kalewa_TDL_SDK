@@ -1,0 +1,2 @@
+com.kalewa.nfc.test
+string app_name

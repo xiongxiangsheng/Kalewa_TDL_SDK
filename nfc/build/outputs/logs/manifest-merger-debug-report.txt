@@ -1,0 +1,189 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [kalewatdl_V1.1.aar] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\kalewatdl_V1.1.aar\22933da37e63ac1dacfea91b785c5008\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\1a173019a04d34af4a55b3683fcab905\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jjoe64:graphview:4.2.2] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\graphview-4.2.2.aar\ef35a21ea9a3ebef3e0a426563ee3893\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\c69895921640d6b2d5a6d8818eada204\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\4f6a0030a0af60822051ac06e9b2113d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\0f7b9ffbebf89c234a77f19977af3d05\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\7699c10dd5e9905d53a7b7286f05793e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\59cbce87150f3c240555ac2c1a5d1ae1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\71a22ea1dbbe5839d21c887d3a1e715f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\8e8f6d9d9534d4cd0e21acba7b355c77\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\e335dc4f26e43b977ce42c40c3a2474a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\af48f9289ba35cb96220b870f9e9138a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\781ff1267d28450dce2d1b4052538f49\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\ce2259b496cfd12dd020d3a74c2f9707\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\493d2b23dd58a5c2ca262bda04472797\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\f700be0ad6cfe029e14fad168538e696\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\86757907a2ed73c759b6318001de1a8d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\9d0ad683938dd3f5aa15091e4c6f8fab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9f400b3da7a3ccf72aa63e2a16d48886\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ef60186e653020ce0b4966d920f864c6\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\fb6c3471094477874250d16609ca4f53\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9ec2a789c3b33929fa6e48192f9fe8f0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\c8cda624edf5cde6fe367d3e19cbf454\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\da65dd0ee60bbb23a0b802a6fc264434\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\271d122d63c3d798e67ee3dab4812c51\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\748f75288f023bf02ce44151f2c7a9c2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\6a3b793ff0e33ba264a2435b967f8b5d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\e714b819a7a5faf57df19e99ad61d4c0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\036eb238768354546723ddb8cd2cce05\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\d4d8152c2130586c6e0741c7067cd02f\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml
+		INJECTED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml
+		ADDED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml
+		ADDED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.NFC
+ADDED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml:6:5-62
+	android:name
+		ADDED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml:6:22-59
+uses-permission#android.permission.VIBRATE
+ADDED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml:7:22-63
+uses-feature#android.hardware.nfc
+ADDED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml:9:5-81
+	android:required
+		ADDED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml:9:55-78
+	android:name
+		ADDED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml:9:19-54
+application
+ADDED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml:11:5-30:19
+MERGED from [com.jjoe64:graphview:4.2.2] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\graphview-4.2.2.aar\ef35a21ea9a3ebef3e0a426563ee3893\AndroidManifest.xml:11:5-12:19
+MERGED from [com.jjoe64:graphview:4.2.2] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\graphview-4.2.2.aar\ef35a21ea9a3ebef3e0a426563ee3893\AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9f400b3da7a3ccf72aa63e2a16d48886\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9f400b3da7a3ccf72aa63e2a16d48886\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ef60186e653020ce0b4966d920f864c6\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ef60186e653020ce0b4966d920f864c6\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9f400b3da7a3ccf72aa63e2a16d48886\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml:13:9-44
+	android:allowBackup
+		ADDED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml:16:9-40
+activity#com.kalewa.nfc.MainActivity
+ADDED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml:17:9-24:20
+	android:screenOrientation
+		ADDED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml:18:13-49
+	android:name
+		ADDED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml:17:19-61
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml:22:27-74
+activity#com.kalewa.nfc.ui.ReadTextActivity
+ADDED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml:25:9-29:52
+	android:screenOrientation
+		ADDED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml:27:13-49
+	android:label
+		ADDED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml:29:13-50
+	android:launchMode
+		ADDED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml:28:13-43
+	android:windowSoftInputMode
+		ADDED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml:26:13-67
+	android:name
+		ADDED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml:25:19-68
+uses-sdk
+INJECTED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml
+INJECTED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml
+MERGED from [kalewatdl_V1.1.aar] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\kalewatdl_V1.1.aar\22933da37e63ac1dacfea91b785c5008\AndroidManifest.xml:7:5-9:41
+MERGED from [kalewatdl_V1.1.aar] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\kalewatdl_V1.1.aar\22933da37e63ac1dacfea91b785c5008\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\1a173019a04d34af4a55b3683fcab905\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\1a173019a04d34af4a55b3683fcab905\AndroidManifest.xml:20:5-44
+MERGED from [com.jjoe64:graphview:4.2.2] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\graphview-4.2.2.aar\ef35a21ea9a3ebef3e0a426563ee3893\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jjoe64:graphview:4.2.2] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\graphview-4.2.2.aar\ef35a21ea9a3ebef3e0a426563ee3893\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\c69895921640d6b2d5a6d8818eada204\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\c69895921640d6b2d5a6d8818eada204\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\4f6a0030a0af60822051ac06e9b2113d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\4f6a0030a0af60822051ac06e9b2113d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\0f7b9ffbebf89c234a77f19977af3d05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\0f7b9ffbebf89c234a77f19977af3d05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\7699c10dd5e9905d53a7b7286f05793e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\7699c10dd5e9905d53a7b7286f05793e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\59cbce87150f3c240555ac2c1a5d1ae1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\59cbce87150f3c240555ac2c1a5d1ae1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\71a22ea1dbbe5839d21c887d3a1e715f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\71a22ea1dbbe5839d21c887d3a1e715f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\8e8f6d9d9534d4cd0e21acba7b355c77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\8e8f6d9d9534d4cd0e21acba7b355c77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\e335dc4f26e43b977ce42c40c3a2474a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\e335dc4f26e43b977ce42c40c3a2474a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\af48f9289ba35cb96220b870f9e9138a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\af48f9289ba35cb96220b870f9e9138a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\781ff1267d28450dce2d1b4052538f49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\781ff1267d28450dce2d1b4052538f49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\ce2259b496cfd12dd020d3a74c2f9707\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\ce2259b496cfd12dd020d3a74c2f9707\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\493d2b23dd58a5c2ca262bda04472797\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\493d2b23dd58a5c2ca262bda04472797\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\f700be0ad6cfe029e14fad168538e696\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\f700be0ad6cfe029e14fad168538e696\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\86757907a2ed73c759b6318001de1a8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\86757907a2ed73c759b6318001de1a8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\9d0ad683938dd3f5aa15091e4c6f8fab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\9d0ad683938dd3f5aa15091e4c6f8fab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9f400b3da7a3ccf72aa63e2a16d48886\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9f400b3da7a3ccf72aa63e2a16d48886\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ef60186e653020ce0b4966d920f864c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ef60186e653020ce0b4966d920f864c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\fb6c3471094477874250d16609ca4f53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\fb6c3471094477874250d16609ca4f53\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9ec2a789c3b33929fa6e48192f9fe8f0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9ec2a789c3b33929fa6e48192f9fe8f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\c8cda624edf5cde6fe367d3e19cbf454\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\c8cda624edf5cde6fe367d3e19cbf454\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\da65dd0ee60bbb23a0b802a6fc264434\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\da65dd0ee60bbb23a0b802a6fc264434\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\271d122d63c3d798e67ee3dab4812c51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\271d122d63c3d798e67ee3dab4812c51\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\748f75288f023bf02ce44151f2c7a9c2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\748f75288f023bf02ce44151f2c7a9c2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\6a3b793ff0e33ba264a2435b967f8b5d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\6a3b793ff0e33ba264a2435b967f8b5d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\e714b819a7a5faf57df19e99ad61d4c0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\e714b819a7a5faf57df19e99ad61d4c0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\036eb238768354546723ddb8cd2cce05\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\036eb238768354546723ddb8cd2cce05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\d4d8152c2130586c6e0741c7067cd02f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Kagray Dell 1\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\d4d8152c2130586c6e0741c7067cd02f\AndroidManifest.xml:20:5-44
+INJECTED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml
+INJECTED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml
+		ADDED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml
+		INJECTED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml
+		ADDED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml
+		INJECTED from C:\temp\NXP_KLW\Kalewa_TDL_SDK\nfc\src\main\AndroidManifest.xml
